@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Ravindra Patare - Plant Head with expertise in operations management, project leadership, and cost optimization.">
+    <title>Ravindra Patare - Operations Management Professional</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #004080;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        header p {
+            font-size: 1.2em;
+            margin-top: 10px;
+        }
+        section {
+            padding: 20px;
+            margin: 20px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        }
+        h2 {
+            color: #004080;
+            border-bottom: 2px solid #004080;
+            padding-bottom: 10px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            padding: 10px 0;
+            border-bottom: 1px solid #ddd;
+        }
+        footer {
+            background-color: #004080;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            margin-top: 30px;
+        }
+        .contact-info {
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+            margin: 20px 0;
+        }
+        .contact-info div {
+            flex-basis: 45%;
+            margin-bottom: 20px;
+        }
+        .skills, .achievements {
+            display: flex;
+            flex-wrap: wrap;
+        }
+        .skills div, .achievements div {
+            flex-basis: 45%;
+            margin: 10px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Ravindra Patare</h1>
+    <p>Plant Head | Operations Management | Project Leadership | Cost Optimization</p>
+</header>
+
+<section>
+    <h2>About Me</h2>
+    <p>Dynamic and results-driven Mechanical Engineer with over 10 years of experience leading plant operations, project management, and cross-functional teams. Proven track record of enhancing productivity, efficiency, and profitability through strategic implementation of operational excellence initiatives. Adept at managing large-scale projects and driving continuous improvement in manufacturing processes. Currently seeking to leverage my expertise in a challenging role as an Operations Head.</p>
+</section>
+
+<section>
+    <h2>Professional Experience</h2>
+    <ul>
+        <li>
+            <strong>Godrej Agrovet Limited - Plant Head (Sept 2021 - Present)</strong>
+            <ul>
+                <li>Managed operations for two business units, improving production efficiency and reducing costs by 30% through innovative projects.</li>
+                <li>Spearheaded a 414KW rooftop solar project, achieving significant energy savings.</li>
+                <li>Directed a team of 120+ personnel and led a Rs.35Cr. project for a 400 TPD Poultry Feed Plant.</li>
+            </ul>
+        </li>
+        <li>
+            <strong>Baramati Agro Ltd. - Plant Head (Aug 2018 - Sept 2021)</strong>
+            <ul>
+                <li>Boosted production efficiency by 15% and led cost-saving initiatives reducing operational expenses by 18 Cr.</li>
+                <li>Secured a Rs.127M multi-year contract with a strategic partner in the Feedmill sector.</li>
+            </ul>
+        </li>
+        <li>
+            <strong>CPF India Pvt Ltd. - Production Engineer (Sept 2014 - Aug 2018)</strong>
+            <ul>
+                <li>Improved production efficiency by 25% through major plant upgrade projects.</li>
+                <li>Reduced storage loss by 0.2%, saving 1.2Cr annually in operational costs.</li>
+            </ul>
+        </li>
+    </ul>
+</section>
+
+<section class="contact-info">
+    <div>
+        <h2>Contact Information</h2>
+        <p><strong>Email:</strong> <a href="mailto:rpatare09@gmail.com">rpatare09@gmail.com</a></p>
+        <p><strong>Phone:</strong> +91-9975024183</p>
+        <p><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/ravindra-patare-feedindustryoperations" target="_blank">linkedin.com/in/ravindra-patare</a></p>
+    </div>
+    <div>
+        <h2>Location</h2>
+        <p>Ozer, Nashik, Maharashtra, India</p>
+    </div>
+</section>
+
+<section>
+    <h2>Key Skills</h2>
+    <div class="skills">
+        <div>
+            <ul>
+                <li>Plant Operations Management</li>
+                <li>Project Management</li>
+                <li>Cost Optimization</li>
+            </ul>
+        </div>
+        <div>
+            <ul>
+                <li>Production Planning</li>
+                <li>Supply Chain Management</li>
+                <li>Operational Excellence</li>
+            </ul>
+        </div>
+    </div>
+</section>
+
+<section>
+    <h2>Achievements</h2>
+    <div class="achievements">
+        <div>
+            <ul>
+                <li>Godrej Race Award for Business Success (2023)</li>
+                <li>Safe Tech Award for Best Workplace (2023)</li>
+            </ul>
+        </div>
+        <div>
+            <ul>
+                <li>Star Performer Award - Lowest Overhead Achievement (2020)</li>
+                <li>Best Plant Award for Best Practices (2020)</li>
+            </ul>
+        </div>
+    </div>
+</section>
+
+<section>
+    <h2>Education</h2>
+    <ul>
+        <li><strong>Bachelor of Engineering (Mechanical)</strong> - Pune University, 2014 - 66%</li>
+    </ul>
+</section>
+
+<footer>
+    <p>&copy; 2024 Ravindra Patare. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
